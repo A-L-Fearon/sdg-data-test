@@ -21,7 +21,7 @@ Year,Type of Benefit,Geographic Region,Population Group,Unit,Value
 2012,Persons Registered with the National Insurance Scheme,KMA,,%,49.4
 2012,Persons Registered with the National Insurance Scheme,OUC,,%,44.6
 2012,Persons Registered with the National Insurance Scheme,Rural,,%,29.8
-2012,Persons Registered with the National Insurance Scheme,,Male,%,38
+2012,Persons Registered with the National Insurance Scheme,,Male,%,38.0
 2012,Persons Registered with the National Insurance Scheme,,Female,%,40.1
 2013,Persons Registered with the National Insurance Scheme,Jamaica,,%,44.9
 2013,Persons Registered with the National Insurance Scheme,KMA,,%,59.3
@@ -32,7 +32,7 @@ Year,Type of Benefit,Geographic Region,Population Group,Unit,Value
 2014,Persons Registered with the National Insurance Scheme,Jamaica,,%,46.7
 2014,Persons Registered with the National Insurance Scheme,KMA,,%,55.3
 2014,Persons Registered with the National Insurance Scheme,OUC,,%,56.8
-2014,Persons Registered with the National Insurance Scheme,Rural,,%,36
+2014,Persons Registered with the National Insurance Scheme,Rural,,%,36.0
 2014,Persons Registered with the National Insurance Scheme,,Male,%,45.1
 2014,Persons Registered with the National Insurance Scheme,,Female,%,48.1
 2015,Persons Registered with the National Insurance Scheme,Jamaica,,%,47.1
@@ -48,14 +48,14 @@ Year,Type of Benefit,Geographic Region,Population Group,Unit,Value
 2017,Outdoor Persons Registered on Poor Relief Programme,St Thomas,Female,Number,344
 2017,Outdoor Persons Registered on Poor Relief Programme,St Thomas,Total,Number,556
 2017,Outdoor Persons Registered on Poor Relief Programme,Portland,Male,Number,444
-2017,Outdoor Persons Registered on Poor Relief Programme,Portland,Female,Number,587
+2017,Outdoor Persons Registered on Poor Relief Programme,Portland. Female,Number,587
 2017,Outdoor Persons Registered on Poor Relief Programme,Portland,Total,Number,1031
 2017,Outdoor Persons Registered on Poor Relief Programme,St Mary,Male,Number,315
-2017,Outdoor Persons Registered on Poor Relief Programme,St Mary,Female,Number,204
+2017,Outdoor Persons Registered on Poor Relief Programme,St Mary Female,Number,204
 2017,Outdoor Persons Registered on Poor Relief Programme,St Mary,Total,Number,519
 2017,Outdoor Persons Registered on Poor Relief Programme,St Ann,Male,Number,453
 2017,Outdoor Persons Registered on Poor Relief Programme,St Ann,Female,Number,486
-2017,Outdoor Persons Registered on Poor Relief Programme,St Ann,,Total,939
+2017,Outdoor Persons Registered on Poor Relief Programme,St Ann,Total,939
 2017,Outdoor Persons Registered on Poor Relief Programme,Trelawny,Male,Number,252
 2017,Outdoor Persons Registered on Poor Relief Programme,Trelawny,Female,Number,214
 2017,Outdoor Persons Registered on Poor Relief Programme,Trelawny,Total,Number,466
@@ -83,7 +83,7 @@ Year,Type of Benefit,Geographic Region,Population Group,Unit,Value
 2017,Outdoor Persons Registered on Poor Relief Programme,Jamaica,Male,Number,6420
 2017,Outdoor Persons Registered on Poor Relief Programme,Jamaica,Female,Number,6518
 2017,Outdoor Persons Registered on Poor Relief Programme,Jamaica,Total,Number,12938
-2017,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,,per 100000 population,428
+2017,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,,per 100.000 population,428
 2017,Outdoor Persons Registered on Poor Relief Programme,St Thomas,,per 100.000 population,585
 2017,Outdoor Persons Registered on Poor Relief Programme,Portland,,per 100.000 population,1247
 2017,Outdoor Persons Registered on Poor Relief Programme,St Mary,,per 100.000 population,451
@@ -107,8 +107,8 @@ Year,Type of Benefit,Geographic Region,Population Group,Unit,Value
 2018,Outdoor Persons Registered on Poor Relief Programme,Portland,Female,Number,383
 2018,Outdoor Persons Registered on Poor Relief Programme,Portland,Total,Number,758
 2018,Outdoor Persons Registered on Poor Relief Programme,St Mary,Male,Number,282
-2018,Outdoor Persons Registered on Poor Relief Programme,St Mary,Female,Number,242
-2018,Outdoor Persons Registered on Poor Relief Programme,St Mary,Total,Number,524
+2018,Outdoor Persons Registered on Poor Relief Programme,St Mary Female,Number,242
+2018,Outdoor Persons Registered on Poor Relief Programme,St Mary Total,Number,524
 2018,Outdoor Persons Registered on Poor Relief Programme,St Ann,Male,Number,434
 2018,Outdoor Persons Registered on Poor Relief Programme,St Ann,Female,Number,471
 2018,Outdoor Persons Registered on Poor Relief Programme,St Ann,Total,Number,905
@@ -142,8 +142,8 @@ Year,Type of Benefit,Geographic Region,Population Group,Unit,Value
 2018,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,,per 100.000 population,434
 2018,Outdoor Persons Registered on Poor Relief Programme,St Thomas,,per 100.000 population,285
 2018,Outdoor Persons Registered on Poor Relief Programme,Portland,,per 100.000 population,917
-2018,Outdoor Persons Registered on Poor Relief Programme,St Mary,,per 100.000 population,456
-2018,Outdoor Persons Registered on Poor Relief Programme,St Ann,,per 100.000 population,519
+2018,Outdoor Persons Registered on Poor Relief Programme,,per 100.000 population,St Mary,456
+2018,Outdoor Persons Registered on Poor Relief Programme,,per 100.000 population,St Ann,519
 2018,Outdoor Persons Registered on Poor Relief Programme,Trelawny,,per 100.000 population,584
 2018,Outdoor Persons Registered on Poor Relief Programme,St James,,per 100.000 population,741
 2018,Outdoor Persons Registered on Poor Relief Programme,Hanover,,per 100.000 population,706
@@ -160,11 +160,11 @@ Year,Type of Benefit,Geographic Region,Population Group,Unit,Value
 2017,Indoor Persons Registered on Poor Relief Programme,St Thomas,Female,Number,25
 2017,Indoor Persons Registered on Poor Relief Programme,St Thomas,Total,Number,65
 2017,Indoor Persons Registered on Poor Relief Programme,Portland,Male,Number,34
-2017,Indoor Persons Registered on Poor Relief Programme,Portland,Female,Number,19
+2017,Indoor Persons Registered on Poor Relief Programme,Portland. Female,Number,19
 2017,Indoor Persons Registered on Poor Relief Programme,Portland,Total,Number,53
 2017,Indoor Persons Registered on Poor Relief Programme,St Mary,Male,Number,63
-2017,Indoor Persons Registered on Poor Relief Programme,St Mary,Female,Number,35
-2017,Indoor Persons Registered on Poor Relief Programme,St Mary,Total,Number,98
+2017,Indoor Persons Registered on Poor Relief Programme,St Mary Female,Number,35
+2017,Indoor Persons Registered on Poor Relief Programme,St Mary Total,Number,98
 2017,Indoor Persons Registered on Poor Relief Programme,St Ann,Male,Number,63
 2017,Indoor Persons Registered on Poor Relief Programme,St Ann,Female,Number,48
 2017,Indoor Persons Registered on Poor Relief Programme,St Ann,Total,Number,111
