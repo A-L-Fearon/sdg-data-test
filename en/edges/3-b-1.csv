@@ -1,5 +1,3 @@
 From,To
-Vaccine,sex
-Vaccine,Wealth Quintile
-Vaccine,Geographic Location
-Vaccine,Total
+Vaccination Indicator,Time Vaccinated
+Time Vaccinated,Source of Vaccination Record
