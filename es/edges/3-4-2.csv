@@ -1,4 +1,3 @@
 From,To
-Indicator,Unit
-Unit,Geographical Area
-Unit,Sex
+Indicator,Sex
+Sex,Unit

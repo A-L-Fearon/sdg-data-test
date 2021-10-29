@@ -1,4 +1,3 @@
 From,To
-Description of Household,Geographical Region
 Description of Household,Wealth Index Quintile
-Description of Household,Type of Hand washing facilities found
+Wealth Index Quintile,Type of Hand washing facilities found
